@@ -1,0 +1,17 @@
+{
+    "name": "ssz/avatar",
+    "description": "ssz avatar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shanshizi",
+            "email": "531894107@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ssz\\Avatar\\":"src"
+        }
+    },
+    "require": {}
+}
