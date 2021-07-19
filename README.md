@@ -3,6 +3,12 @@
 
 ### 如何使用
 
+````
+
+composer require ssz/avatar
+
+````
+
 
 ##### 在laravel中注册服务和门面,在config里app.php文件中注册
 
